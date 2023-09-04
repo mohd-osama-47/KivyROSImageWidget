@@ -3,6 +3,8 @@ Kivy widget that allows for embedding ```sensor_msgs/Image``` topics into your a
 The widget also stores the image as a cv2 frame and can be used directly for further image processing tasks
 
 ![Trace Demo](./media/ArmDemo.gif)
+
+
 ![Turtlebot Demo](./media/BotDemo.gif)
 
 ## What is this?
